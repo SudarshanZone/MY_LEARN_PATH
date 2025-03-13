@@ -27,6 +27,10 @@ This roadmap is designed to be a comprehensive guide to learning Go, from beginn
         *   [Using Go Modules](https://go.dev/blog/using-go-modules):  Practical examples.
 
 *   **Basic Syntax & Data Types:**
+    *   Basic Syntax
+        * [Go Tutorial: Getting started](https://go.dev/doc/tutorial/getting-started): Brief introduction to Go programming
+        * [Go by Example: Hello World](https://gobyexample.com/hello-world): Printing "Hello World" in Go
+        * [W3schools: Go Syntax](https://www.w3schools.com/go/go_syntax.php): Basic syntax of Go
     *   Variables and Constants (Declaration, assignment, scope):
         *   [Go Specification - Variables](https://go.dev/ref/spec#Variables):  Formal definition of variables in Go.
         *   [Go Specification - Constants](https://go.dev/ref/spec#Constants):  Formal definition of constants.
